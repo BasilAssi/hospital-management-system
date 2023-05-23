@@ -15,3 +15,7 @@ The relationships between these entities are crucial to the functioning of the s
 ![hospital-management system](https://github.com/BasilAssi/hospital-management-system/assets/104434508/c5650260-8de8-446d-a857-adf69435ad18)
 
 
+![Appointment](https://github.com/BasilAssi/hospital-management-system/assets/104434508/9837b2ad-be7a-4321-a508-8252c32d5c3d)
+![Doctor](https://github.com/BasilAssi/hospital-management-system/assets/104434508/1c684182-f7bd-4a0f-8b26-e18fa54869ca)
+![medicalRecord](https://github.com/BasilAssi/hospital-management-system/assets/104434508/57782bf2-9edb-4061-bdc0-80af1e8af9a3)
+![Patient](https://github.com/BasilAssi/hospital-management-system/assets/104434508/29ee260d-ef87-4dba-ab0b-8b5c43618711)
